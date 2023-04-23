@@ -1,0 +1,9 @@
+1. Map
+2 . filter
+3. reduce
+4. sorted
+
+1) all this return stream  as a return type and these are called intermediate operation
+2) output is the stream of the modified value
+3) third is the terminal operations which means it return other than streams live a generic type or void
+4)
